@@ -18,6 +18,9 @@ Write the C Program using Linux IO Systems locking
 Execute the C Program for the desired output. 
 
 # PROGRAM:
+Developed By:Santha ramanath M
+
+Register Number:212223220097
 
 
 ## 1.To Write a C program that illustrates files copying 
